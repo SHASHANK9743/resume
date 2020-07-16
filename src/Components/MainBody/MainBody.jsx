@@ -4,6 +4,8 @@ import Work from "./Work/Work";
 import Projects from "./Projects/Projects";
 import Skillset from "./Skillset/Skillset";
 import Certifications from "./Certifications/Certifications";
+import Contacts from "./Contacts/Contacts";
+import MyYoutube from "./MyYoutube/MyYoutube";
 function MainBody() {
   return (
     <div className="container-fluid" style={{ position: "relative" }}>
@@ -12,6 +14,8 @@ function MainBody() {
       <Projects />
       <Skillset />
       <Certifications />
+      <MyYoutube />
+      <Contacts />
     </div>
   );
 }

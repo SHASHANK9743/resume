@@ -55,9 +55,11 @@ function Skillset() {
                 <h6>Express</h6>
               </li>
               <li>
-                <h6>Django</h6>
+                <h6>Django (Working Knowledge)</h6>
               </li>
-              <li>Flask</li>
+              <li>
+                <h6>Flask (Working Knowledge)</h6>
+              </li>
             </ul>
           </div>
         </div>
@@ -68,7 +70,7 @@ function Skillset() {
               <h6>SQL</h6>
             </li>
             <li>
-              <h6>MONGO DB</h6>
+              <h6>MONGO DB (Working Knowledge)</h6>
             </li>
           </ul>
         </div>
